@@ -11,30 +11,30 @@ Facts as of 24 November 2026:
 - 10 playable real mosquito species: Culex, Aedes aegypti, Anopheles, Asian tiger (Aedes albopictus), gallinipper (Psorophora ciliata), Culiseta, Wyeomyia, Deinocerites, Sabethes cyaneus, Toxorhynchites.
 - Game languages: English, Turkish, German, Spanish, French, Arabic. Age rating 9+. Download about 393 MB.
 - App Store: https://apps.apple.com/app/id6827985347
-- Support: https://amert9696.github.io/mosquito-site/support/ · Privacy: https://amert9696.github.io/mosquito-site/privacy.html · Terms: https://amert9696.github.io/mosquito-site/terms.html
+- Support: https://mosquitosim.com/support/ · Privacy: https://mosquitosim.com/privacy.html · Terms: https://mosquitosim.com/terms.html
 
 ## Pages
-- [Mosquito Simulator: Bite & Run | Free iPhone Game](https://amert9696.github.io/mosquito-site/): Play as a mosquito: sneak through 20 rooms at insect scale, land the bite, dodge the slap and escape before dawn. Online 1 vs 3. Free on iPhone.
-- [How to Play Mosquito Simulator: Controls & Tips](https://amert9696.github.io/mosquito-site/how-to-play/): Controls, the bite ring, golden bites, breath plumes, blood weight and Slap Time explained, plus tips for three-star nights in Mosquito Simulator: Bite & Run.
-- [Features: 20 Rooms, Real Species, Online 1 vs 3](https://amert9696.github.io/mosquito-site/features/): Everything in Mosquito Simulator: Bite & Run: 20 realistic rooms, 2 boss nights, breath plumes, Slap Time, live buzz music, 10 species, gear and the Night Pass.
-- [Game Modes: Story, Daily, Weekly, Endless, Online](https://amert9696.github.io/mosquito-site/modes/): How the five modes of Mosquito Simulator: Bite & Run work: the 20-night story, Daily Night, Game of the Week, the endless Sleepless Night and Online 1 vs 3.
-- [The 10 Mosquito Species: Real Traits & Game Bonuses](https://amert9696.github.io/mosquito-site/species/): Culex, Aedes aegypti, Anopheles, Asian tiger, gallinipper, Culiseta, Wyeomyia, Deinocerites, Sabethes and Toxorhynchites: real biology and in-game bonuses.
-- [Mosquito Facts & Guides, With Sources](https://amert9696.github.io/mosquito-site/guide/): Short, sourced guides about real mosquitoes: how they find people, why bites itch, and games where you play as an insect. From the makers of Mosquito Simulator.
-- [How Mosquitoes Find You: CO₂, Heat and Scent](https://amert9696.github.io/mosquito-site/guide/how-mosquitoes-find-you/): Mosquitoes stack cues: exhaled CO₂ first, then dark shapes, body heat and skin odour. What four studies found, and how the game turns it into play.
-- [Why Do Mosquito Bites Itch? The Saliva Explained](https://amert9696.github.io/mosquito-site/guide/why-mosquito-bites-itch/): Bites itch because your immune system reacts to the saliva a female mosquito injects. What is in it, why only females bite, and what helps.
-- [Games Where You Play as an Insect (2001–2026)](https://amert9696.github.io/mosquito-site/guide/games-where-you-play-as-an-insect/): From Mister Mosquito on PS2 to bee, ant and bug games, mosquito games on phones and Roblox, and 1-vs-4 mosquito PvP on Steam: platforms and years.
-- [FAQ: Price, Devices, Android, Offline, Purchases](https://amert9696.github.io/mosquito-site/faq/): Answers about Mosquito Simulator: Bite & Run: is it free, which iPhones, Android plans, offline play, in-app purchases, restoring, deleting data and kids.
-- [Press Kit: Mosquito Simulator: Bite & Run](https://amert9696.github.io/mosquito-site/press/): Fact sheet, short and long descriptions, app icon and in-game screenshots of Mosquito Simulator: Bite & Run, free for coverage. Contact the developer.
-- [Support: Mosquito Simulator: Bite & Run](https://amert9696.github.io/mosquito-site/support/): Help with purchases, restoring, the Mosquito Club, refunds, deleting your data and bugs in Mosquito Simulator: Bite & Run. Answers within 2 business days.
+- [Mosquito Simulator: Bite & Run | Free iPhone Game](https://mosquitosim.com/): Play as a mosquito: sneak through 20 rooms at insect scale, land the bite, dodge the slap and escape before dawn. Online 1 vs 3. Free on iPhone.
+- [How to Play Mosquito Simulator: Controls & Tips](https://mosquitosim.com/how-to-play/): Controls, the bite ring, golden bites, breath plumes, blood weight and Slap Time explained, plus tips for three-star nights in Mosquito Simulator: Bite & Run.
+- [Features: 20 Rooms, Real Species, Online 1 vs 3](https://mosquitosim.com/features/): Everything in Mosquito Simulator: Bite & Run: 20 realistic rooms, 2 boss nights, breath plumes, Slap Time, live buzz music, 10 species, gear and the Night Pass.
+- [Game Modes: Story, Daily, Weekly, Endless, Online](https://mosquitosim.com/modes/): How the five modes of Mosquito Simulator: Bite & Run work: the 20-night story, Daily Night, Game of the Week, the endless Sleepless Night and Online 1 vs 3.
+- [The 10 Mosquito Species: Real Traits & Game Bonuses](https://mosquitosim.com/species/): Culex, Aedes aegypti, Anopheles, Asian tiger, gallinipper, Culiseta, Wyeomyia, Deinocerites, Sabethes and Toxorhynchites: real biology and in-game bonuses.
+- [Mosquito Facts & Guides, With Sources](https://mosquitosim.com/guide/): Short, sourced guides about real mosquitoes: how they find people, why bites itch, and games where you play as an insect. From the makers of Mosquito Simulator.
+- [How Mosquitoes Find You: CO₂, Heat and Scent](https://mosquitosim.com/guide/how-mosquitoes-find-you/): Mosquitoes stack cues: exhaled CO₂ first, then dark shapes, body heat and skin odour. What four studies found, and how the game turns it into play.
+- [Why Do Mosquito Bites Itch? The Saliva Explained](https://mosquitosim.com/guide/why-mosquito-bites-itch/): Bites itch because your immune system reacts to the saliva a female mosquito injects. What is in it, why only females bite, and what helps.
+- [Games Where You Play as an Insect (2001–2026)](https://mosquitosim.com/guide/games-where-you-play-as-an-insect/): From Mister Mosquito on PS2 to bee, ant and bug games, mosquito games on phones and Roblox, and 1-vs-4 mosquito PvP on Steam: platforms and years.
+- [FAQ: Price, Devices, Android, Offline, Purchases](https://mosquitosim.com/faq/): Answers about Mosquito Simulator: Bite & Run: is it free, which iPhones, Android plans, offline play, in-app purchases, restoring, deleting data and kids.
+- [Press Kit: Mosquito Simulator: Bite & Run](https://mosquitosim.com/press/): Fact sheet, short and long descriptions, app icon and in-game screenshots of Mosquito Simulator: Bite & Run, free for coverage. Contact the developer.
+- [Support: Mosquito Simulator: Bite & Run](https://mosquitosim.com/support/): Help with purchases, restoring, the Mosquito Club, refunds, deleting your data and bugs in Mosquito Simulator: Bite & Run. Answers within 2 business days.
 
 ## Other languages
-- Türkçe: https://amert9696.github.io/mosquito-site/tr/
-- Deutsch: https://amert9696.github.io/mosquito-site/de/
-- Español: https://amert9696.github.io/mosquito-site/es/
-- Português (Brasil): https://amert9696.github.io/mosquito-site/pt-br/
-- Français: https://amert9696.github.io/mosquito-site/fr/
-- 日本語: https://amert9696.github.io/mosquito-site/ja/
+- Türkçe: https://mosquitosim.com/tr/
+- Deutsch: https://mosquitosim.com/de/
+- Español: https://mosquitosim.com/es/
+- Português (Brasil): https://mosquitosim.com/pt-br/
+- Français: https://mosquitosim.com/fr/
+- 日本語: https://mosquitosim.com/ja/
 
 ## Optional
-- [Full text of all English pages](https://amert9696.github.io/mosquito-site/llms-full.txt)
-- [Press kit](https://amert9696.github.io/mosquito-site/press/)
+- [Full text of all English pages](https://mosquitosim.com/llms-full.txt)
+- [Press kit](https://mosquitosim.com/press/)

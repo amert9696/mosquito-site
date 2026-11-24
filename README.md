@@ -3,7 +3,7 @@
 Landing, support and legal website for **Mosquito Simulator: Bite & Run** (iPhone, App Store id 6827985347).
 Static HTML built by one Python script (standard library only). No framework, no JavaScript, no cookies.
 
-Live (GitHub Pages): https://amert9696.github.io/mosquito-site/
+Live (Cloudflare Workers, `wrangler deploy` after `python3 build.py --out dist`): https://mosquitosim.com/
 
 App Store Connect points at three URLs that must keep working: the **support URL** (site root, with a `#support`
 section), `privacy.html` and `terms.html`. All three are generated at the same paths.
