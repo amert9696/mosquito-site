@@ -1,0 +1,347 @@
+{
+ "hero-orbit": {
+  "src": "Captures/story_shots/6_perfect_orbit.jpg",
+  "variants": [
+   {
+    "w": 640,
+    "h": 295,
+    "stem": "hero-orbit-640"
+   },
+   {
+    "w": 1280,
+    "h": 590,
+    "stem": "hero-orbit-1280"
+   }
+  ]
+ },
+ "bedroom-night01": {
+  "src": "Captures/story_shots/2_opening_wide.jpg",
+  "variants": [
+   {
+    "w": 640,
+    "h": 295,
+    "stem": "bedroom-night01-640"
+   },
+   {
+    "w": 1280,
+    "h": 590,
+    "stem": "bedroom-night01-1280"
+   }
+  ]
+ },
+ "sleeper-waking": {
+  "src": "Captures/story_shots/3_waking.jpg",
+  "variants": [
+   {
+    "w": 640,
+    "h": 295,
+    "stem": "sleeper-waking-640"
+   },
+   {
+    "w": 1280,
+    "h": 590,
+    "stem": "sleeper-waking-1280"
+   }
+  ]
+ },
+ "landed-on-skin": {
+  "src": "Captures/perch/face.jpg",
+  "variants": [
+   {
+    "w": 640,
+    "h": 360,
+    "stem": "landed-on-skin-640"
+   },
+   {
+    "w": 960,
+    "h": 540,
+    "stem": "landed-on-skin-960"
+   }
+  ]
+ },
+ "bite-wrist": {
+  "src": "Captures/perch/wrist_R.jpg",
+  "variants": [
+   {
+    "w": 640,
+    "h": 360,
+    "stem": "bite-wrist-640"
+   },
+   {
+    "w": 960,
+    "h": 540,
+    "stem": "bite-wrist-960"
+   }
+  ]
+ },
+ "metro-night19": {
+  "src": "Captures/showcase/L19_chase.png",
+  "variants": [
+   {
+    "w": 640,
+    "h": 295,
+    "stem": "metro-night19-640"
+   },
+   {
+    "w": 1280,
+    "h": 590,
+    "stem": "metro-night19-1280"
+   }
+  ]
+ },
+ "pool-night16": {
+  "src": "Captures/showcase/L16_chase.png",
+  "variants": [
+   {
+    "w": 640,
+    "h": 295,
+    "stem": "pool-night16-640"
+   },
+   {
+    "w": 1280,
+    "h": 590,
+    "stem": "pool-night16-1280"
+   }
+  ]
+ },
+ "restaurant-night18": {
+  "src": "Captures/showcase/L18_chase_late.png",
+  "variants": [
+   {
+    "w": 640,
+    "h": 295,
+    "stem": "restaurant-night18-640"
+   },
+   {
+    "w": 1280,
+    "h": 590,
+    "stem": "restaurant-night18-1280"
+   }
+  ]
+ },
+ "pest-control-night20": {
+  "src": "Captures/showcase/L20_chase.png",
+  "variants": [
+   {
+    "w": 640,
+    "h": 295,
+    "stem": "pest-control-night20-640"
+   },
+   {
+    "w": 1280,
+    "h": 590,
+    "stem": "pest-control-night20-1280"
+   }
+  ]
+ },
+ "menu-home": {
+  "src": "Captures/showcase/menu_home.png",
+  "variants": [
+   {
+    "w": 640,
+    "h": 295,
+    "stem": "menu-home-640"
+   },
+   {
+    "w": 1280,
+    "h": 590,
+    "stem": "menu-home-1280"
+   }
+  ]
+ },
+ "store-species": {
+  "src": "Captures/showcase/menu_store_preview.png",
+  "variants": [
+   {
+    "w": 640,
+    "h": 295,
+    "stem": "store-species-640"
+   },
+   {
+    "w": 1280,
+    "h": 590,
+    "stem": "store-species-1280"
+   }
+  ]
+ },
+ "online-1v3": {
+  "src": "Captures/redesign/menu_online.png",
+  "variants": [
+   {
+    "w": 640,
+    "h": 295,
+    "stem": "online-1v3-640"
+   },
+   {
+    "w": 1280,
+    "h": 590,
+    "stem": "online-1v3-1280"
+   }
+  ]
+ },
+ "levels-screen": {
+  "src": "Captures/showcase/menu_levels.png",
+  "variants": [
+   {
+    "w": 640,
+    "h": 295,
+    "stem": "levels-screen-640"
+   },
+   {
+    "w": 1280,
+    "h": 590,
+    "stem": "levels-screen-1280"
+   }
+  ]
+ },
+ "daily-night": {
+  "src": "Captures/redesign/popup_daily.png",
+  "variants": [
+   {
+    "w": 640,
+    "h": 295,
+    "stem": "daily-night-640"
+   },
+   {
+    "w": 1280,
+    "h": 590,
+    "stem": "daily-night-1280"
+   }
+  ]
+ },
+ "results": {
+  "src": "Captures/redesign/hud_results.png",
+  "variants": [
+   {
+    "w": 640,
+    "h": 295,
+    "stem": "results-640"
+   },
+   {
+    "w": 1280,
+    "h": 590,
+    "stem": "results-1280"
+   }
+  ]
+ },
+ "species-culex": {
+  "src": "Store/Icons/mosq_culex.png",
+  "variants": [
+   {
+    "w": 480,
+    "h": 384,
+    "stem": "species-culex"
+   }
+  ]
+ },
+ "species-aegypti": {
+  "src": "Store/Icons/mosq_aegypti.png",
+  "variants": [
+   {
+    "w": 480,
+    "h": 384,
+    "stem": "species-aegypti"
+   }
+  ]
+ },
+ "species-anopheles": {
+  "src": "Store/Icons/mosq_anopheles.png",
+  "variants": [
+   {
+    "w": 480,
+    "h": 384,
+    "stem": "species-anopheles"
+   }
+  ]
+ },
+ "species-albopictus": {
+  "src": "Store/Icons/mosq_albopictus.png",
+  "variants": [
+   {
+    "w": 480,
+    "h": 384,
+    "stem": "species-albopictus"
+   }
+  ]
+ },
+ "species-gallinipper": {
+  "src": "Store/Icons/mosq_gallinipper.png",
+  "variants": [
+   {
+    "w": 480,
+    "h": 384,
+    "stem": "species-gallinipper"
+   }
+  ]
+ },
+ "species-culiseta": {
+  "src": "Store/Icons/mosq_culiseta.png",
+  "variants": [
+   {
+    "w": 480,
+    "h": 384,
+    "stem": "species-culiseta"
+   }
+  ]
+ },
+ "species-wyeomyia": {
+  "src": "Store/Icons/mosq_wyeomyia.png",
+  "variants": [
+   {
+    "w": 480,
+    "h": 384,
+    "stem": "species-wyeomyia"
+   }
+  ]
+ },
+ "species-deinocerites": {
+  "src": "Store/Icons/mosq_deinocerites.png",
+  "variants": [
+   {
+    "w": 480,
+    "h": 384,
+    "stem": "species-deinocerites"
+   }
+  ]
+ },
+ "species-sabethes": {
+  "src": "Store/Icons/mosq_sabethes.png",
+  "variants": [
+   {
+    "w": 480,
+    "h": 384,
+    "stem": "species-sabethes"
+   }
+  ]
+ },
+ "species-toxorhynchites": {
+  "src": "Store/Icons/mosq_toxorhynchites.png",
+  "variants": [
+   {
+    "w": 480,
+    "h": 384,
+    "stem": "species-toxorhynchites"
+   }
+  ]
+ },
+ "app-icon-256": {
+  "src": "Assets/_Game/UI/AppIcon/app_icon.png",
+  "variants": [
+   {
+    "w": 256,
+    "h": 256,
+    "stem": "app-icon-256"
+   }
+  ]
+ },
+ "og-card": {
+  "src": "composite",
+  "variants": [
+   {
+    "w": 1200,
+    "h": 630,
+    "stem": "og-card"
+   }
+  ]
+ }
+}

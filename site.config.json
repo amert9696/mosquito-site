@@ -1,0 +1,27 @@
+{
+  "base_url": "https://amert9696.github.io/mosquito-site/",
+  "contact_email": "alimertgulec38@gmail.com",
+  "press_email": "",
+  "app_store_id": "6827985347",
+  "app_store_url": "https://apps.apple.com/app/id6827985347",
+  "developer_name": "Ali Mert Güleç",
+  "developer_name_ascii": "Ali Mert Gulec",
+  "developer_app_store_url": "https://apps.apple.com/developer/ali-mert-gulec/id1697123763",
+  "developer_same_as": [
+    "https://apps.apple.com/developer/ali-mert-gulec/id1697123763"
+  ],
+  "indexnow_key": "",
+  "analytics_head_html": "",
+  "site_updated": "2026-11-24",
+  "game": {
+    "name": "Mosquito Simulator: Bite & Run",
+    "alternate_names": ["Sivrisinek Oyunu: Isır ve Kaç", "Mücke Simulator: Stich & Weg", "モスキート：蚊のいたずらシミュレーター"],
+    "release_date": "2026-11-09",
+    "version": "1.0",
+    "min_os": "iOS 15.0 or later",
+    "content_rating": "9+",
+    "file_size": "393 MB",
+    "game_languages": ["en", "tr", "de", "es", "fr", "ar"],
+    "genres": ["Simulation", "Action", "Stealth"]
+  }
+}

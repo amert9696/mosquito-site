@@ -1,0 +1,849 @@
+# Mosquito Simulator: Bite & Run: full site text (English)
+
+- Platform: iPhone, iOS 15.0 or later. Android: not announced.
+- Price: free download with optional in-app purchases (Mosquito Club US$4.99/month or US$29.99/year; items US$0.99–19.99).
+- Released: 2026-11-09 (version 1.0). Developer and publisher: Ali Mert Güleç (independent).
+- Story: 20 nights in 4 chapters (June–September) with 2 boss nights (Racket Uncle, Pest Control).
+- Modes: Story, Daily Night, Game of the Week, Sleepless Night (endless), Online 1 vs 3 (one human vs three mosquitoes; bots fill empty seats).
+- 10 playable real mosquito species: Culex, Aedes aegypti, Anopheles, Asian tiger (Aedes albopictus), gallinipper (Psorophora ciliata), Culiseta, Wyeomyia, Deinocerites, Sabethes cyaneus, Toxorhynchites.
+- Game languages: English, Turkish, German, Spanish, French, Arabic. Age rating 9+. Download about 393 MB.
+- App Store: https://apps.apple.com/app/id6827985347
+- Support: https://amert9696.github.io/mosquito-site/support/ · Privacy: https://amert9696.github.io/mosquito-site/privacy.html · Terms: https://amert9696.github.io/mosquito-site/terms.html
+
+## Mosquito Simulator: Bite & Run
+URL: https://amert9696.github.io/mosquito-site/
+
+Mosquito Simulator: Bite & Run is a free iPhone game in which you play as a mosquito. You fly at insect scale through 20 realistic rooms, land on sleeping people, hold the bite for the golden moment, dodge slaps in slow motion and fly out of the window before dawn. It came out on the App Store on 9 November 2026.
+
+Download free on the App Store (https://apps.apple.com/app/id6827985347)Free · iPhone · iOS 15 or later · Android not announced
+
+### Key facts
+
+Everything you need to decide, in one table. Checked against the App Store listing on 24 November 2026.
+
+| Platform | iPhone, iOS 15.0 or later |
+
+| Android | Not announced yet |
+
+| Price | Free download, optional in-app purchases |
+
+| Released | 9 November 2026 (version 1.0) |
+
+| Developer | Ali Mert Güleç, independent developer |
+
+| Genre | Stealth simulation; App Store categories Simulation, Action and Entertainment |
+
+| Age rating | 9+ |
+
+| Story | 20 nights in 4 chapters, including 2 boss nights |
+
+| Modes | Story, Daily Night, Game of the Week, Sleepless Night (endless), Online 1 vs 3 |
+
+| Playable mosquitoes | 10 real species, each with a bonus based on a real trait |
+
+| Game languages | English, Turkish, German, Spanish, French, Arabic |
+
+| Download size | About 393 MB |
+
+### What do you do in a night?
+
+Each night is one room and one goal: drink enough blood to open the window, then get out before dawn. A typical night takes a few minutes.
+
+- Sneak in. Hold to fly, drag to steer. Stay out of the light and away from open eyes.
+
+- Find skin. Ride the warm plume of a sleeper's breath: it leads you to skin and fills you faster.
+
+- Bite. Hold the BITE button and let go just before the ring turns red. Let go when it glows gold for a perfect bite.
+
+- Escape. A full belly makes you heavy and slow. Dodge the slap, then fly out of the open window.
+
+Read the full guide to controls and scoring (/mosquito-site/how-to-play/)
+
+### What does it look like?
+
+These are untouched frames from the game: no concept art, no mock-ups.
+
+### What makes it different from other mosquito games?
+
+Many mosquito games on phones are short arcade loops. This one is a stealth game built around five systems that shape every night:
+
+- Breath plumes: sleepers breathe out visible warm trails. Fly inside one and you lock onto their scent, just as real mosquitoes follow exhaled CO₂.
+
+- Blood weight: every sip makes you heavier and slower, so the trip back to the window gets harder.
+
+- Slap Time: when a hand comes down, time slows. Dash clear at the last moment and the game saves the clip for you.
+
+- Live buzz music: there is no music track. A synth plays your flight and darkens when the room starts to notice you.
+
+- Real species: ten real mosquitoes, from the house mosquito to the elephant mosquito, each with a bonus based on its biology.
+
+See all features (/mosquito-site/features/) · Compare the five game modes (/mosquito-site/modes/) · Meet the 10 species (/mosquito-site/species/)
+
+### Curious about real mosquitoes?
+
+The game borrows from real science. Our guide explains it, with sources:
+
+- How mosquitoes find you: CO₂, heat and scent (/mosquito-site/guide/how-mosquitoes-find-you/)
+
+- Why mosquito bites itch (/mosquito-site/guide/why-mosquito-bites-itch/)
+
+- Games where you play as an insect (/mosquito-site/guide/games-where-you-play-as-an-insect/)
+
+### Support
+
+Email: alimertgulec38@gmail.com (mailto:alimertgulec38@gmail.com?subject=Mosquito%20support). We answer within 2 business days. Please include your device model and, for purchases, the date of the purchase.
+
+#### Purchases did not arrive
+
+Open Settings in the game and tap Restore purchases. Non-consumable items, No Ads and the Mosquito Club come back on any device signed in to the same Apple Account. Blood packs and other consumables cannot be restored.
+
+#### Cancel the Mosquito Club
+
+iPhone Settings → your name → Subscriptions → Mosquito. Cancel at least 24 hours before the renewal date.
+
+#### Refunds
+
+Refunds are handled by Apple: reportaproblem.apple.com (https://reportaproblem.apple.com).
+
+#### Delete my data
+
+Email us from the address you want answered with the subject “Delete my data” and the Player ID shown in the game under Profile. We delete your cloud save and profile within 30 days.
+
+All support answers (/mosquito-site/support/) · FAQ (/mosquito-site/faq/)
+
+## How to play Mosquito Simulator: Bite & Run
+URL: https://amert9696.github.io/mosquito-site/how-to-play/
+
+You win a night by drinking enough blood to open the window and then flying out before dawn. Hold anywhere on the screen to fly and drag to steer; when you are next to bare skin a BITE button appears. Hold it to drink and let go before the ring turns red, or the sleeper feels the itch and swats.
+
+### What are the controls?
+
+The default scheme, One finger, needs a single thumb. Settings also offer Two thumbs and Classic stick schemes.
+
+| Action | Touch control |
+
+| Fly | Hold anywhere. Holding is your throttle. |
+
+| Steer | Drag left or right to turn, up or down to climb or dive. |
+
+| Hover | Let go. You brake and hang in the air. |
+
+| Land | Hold still close to a surface or to skin. |
+
+| Dash | Tap DASH. You have 3 charges that refill over time. |
+
+| Bite | Hold BITE when it appears next to skin; release to stop drinking. |
+
+In Settings you can change flight speed, sensitivity and camera distance, switch on gyro assist, invert vertical steering, move the buttons for left-handed play, turn on reduced motion, pick a colour-blind thermal palette and set graphics quality and frame rate.
+
+### How does a night work, step by step?
+
+- Read the briefing. It names the room, the blood target and the star challenges. Early nights each teach one new idea, marked NEW.
+
+- Find a sleeper. The top bar shows how awake the room is. Light, noise and open eyes raise it.
+
+- Drink. Land on exposed skin and hold BITE. The blood meter at the top left fills toward the target.
+
+- Wait for the window. When you reach the target the window opens with a glow and a beam of moonlight. Before that it refuses you.
+
+- Fly out before dawn. The dawn clock in the corner counts down. Only flying out of the window finishes the night.
+
+### How do you land a perfect bite?
+
+A bite is a short timing game. While you drink, a ring fills around the button. Just before the itch arrives, the ring turns gold: let go then and the bite pays 25% more blood. If you hold on until the ring turns red, the sleeper feels it and reacts.
+
+- Clean streaks: each bite in a row that ends before the red and draws no swing pays more, up to +60%.
+
+- Blood tastes: you are what they ate. Coffee makes you fast, sugar fills you quicker, wine pays more but makes your flight wobble.
+
+- Welts: the bitten spot swells on the skin, so you can see where you have already been.
+
+### What are the breath plumes?
+
+Sleepers breathe out warm plumes you can see. Fly inside one to lock onto the scent: it guides you to skin and makes the next bites pay up to 50% more. Real mosquitoes do something similar with exhaled carbon dioxide, as our article on how mosquitoes find people (/mosquito-site/guide/how-mosquitoes-find-you/) explains.
+
+### Why does the mosquito get slow?
+
+Blood has weight. Each sip swells your belly, slows your flight and makes turns wider. A full mosquito is an easy target, so plan your exit before the last bite.
+
+### How do people fight back?
+
+- Slaps: a hand coming down triggers Slap Time, a slow-motion moment in which a dash can still save you. The game records the near miss as a clip you can save and share.
+
+- Rolling over: a sleeper bitten while stirring rolls over and covers the bitten spot for 18 seconds.
+
+- Sneezing: hover at a nose for a second and you get sneezed across the room.
+
+- Bug spray: from night 08, someone who loses you twice fogs the spot with spray. Get out of the cloud.
+
+- Bosses: night 10 is the Racket Uncle with an electric racket; night 20 is Pest Control.
+
+Hiding works: when someone searches for you, land on a dark wall or curtain and keep still. They look right past you.
+
+### How are stars earned?
+
+Each night has three stars, shown on the results card:
+
+| Star | How to earn it |
+
+| Blood target | Reach the night's blood target and escape. |
+
+| Chaos or ghost | Either trigger the room's chaos or escape without being seen. |
+
+| Golden moments | Land the required number of golden bites. |
+
+### Tips for your first nights
+
+- Start every night by finding a breath plume. It saves time and pays more.
+
+- Bite feet and hands first: they are far from the eyes.
+
+- Keep one dash charge for the escape. Slap Time only helps if you can dash.
+
+- Do not chase the last drop. Leave with the target, not with a full tank.
+
+- Lost? A small chevron on screen points to the nearest exposed skin, or to the window once it is open.
+
+Ready for more? See the Daily, Weekly, endless and online modes (/mosquito-site/modes/) or pick a species that suits your style (/mosquito-site/species/).
+
+Download free on the App Store (https://apps.apple.com/app/id6827985347)Free · iPhone · iOS 15 or later · Android not announced
+
+## Features of Mosquito Simulator: Bite & Run
+URL: https://amert9696.github.io/mosquito-site/features/
+
+Mosquito Simulator: Bite & Run has a 20-night story across 20 realistic rooms, five game modes, ten real mosquito species and an online mode in which one human faces three mosquitoes. It is free to play: purchases are optional, species give no advantage online, and Blood Sacs (the game's reward boxes) are earned by playing and never sold.
+
+### Which rooms are in the game?
+
+The story is one mosquito's summer, from June to September, in four chapters of five nights. Each room is a real place at insect scale, with real furniture and people who sleep, stir, talk and work.
+
+| Chapter | Nights |
+
+| I · The House (June) | 01 Sleeping Man · 02 Couch TV Man · 03 Studying Girl · 04 PlayStation Kid · 05 Kitchen Mom |
+
+| II · After Hours (July) | 06 Office Cubicle · 07 Baby Room · 08 After the Shower · 09 The Meeting · 10 Boss: Racket Uncle |
+
+| III · On the Road (August) | 11 Man Driving · 12 The Gym · 13 Exam Hall · 14 Barber Shop · 15 Camping Tent |
+
+| IV · Nightlife (September) | 16 Poolside Lifeguard · 17 Cinema · 18 Restaurant Service · 19 Metro · 20 Boss: Pest Control |
+
+### What are the signature systems?
+
+| System | What it does |
+
+| Breath plumes and scent lock | Sleepers breathe out visible warm trails. Ride one to lock onto the scent: it leads to skin and pays up to 50% more blood. |
+
+| Blood weight | Every sip makes you heavier. Your belly swells, your flight slows and the window feels further away. |
+
+| Golden bite | Let go of the bite just before the itch for 25% more blood, shown in slow motion. |
+
+| Slap Time | Time slows when a hand comes down. Dash clear and the game saves the near miss as a clip. |
+
+| Live buzz music | No music track: a synth plays your flight. Fast and high sounds different from slow and low, and the music darkens when the room notices you. |
+
+| Compound-eye frame | The edges of the screen react to whoever is watching you, like a mosquito's eyes. |
+
+### How do the people behave?
+
+People are not targets on rails. They breathe, snore, roll over, sneeze, wake up, search the room with their eyes and fight back with slaps, bug spray and, on night 10, an electric racket. Hiding on a dark wall works because they really look for you.
+
+### What can you collect?
+
+- 10 real mosquito species, each with strengths and trade-offs based on its biology. See all ten (/mosquito-site/species/).
+
+- 12 pieces of gear with real effects: wings, needles, a carbon carapace, honey and jet sacs, night lenses.
+
+- Skins, wings, needles and trails to change how your mosquito looks.
+
+- Night Pass: every season has a free track and an optional premium track of rewards.
+
+- Blood Sacs earned by playing, with the odds shown in the game. They are never sold.
+
+- Mosquito Journal, daily missions and a nest colony to grow over the summer.
+
+### Can you play with friends?
+
+Yes. In Online 1 vs 3, one player is the human and three are mosquitoes. Open a private room and share the code; empty seats fill with bots, so a match always starts. Read how every mode works (/mosquito-site/modes/).
+
+### Is it fair to free players?
+
+- The whole story, the Daily, Weekly, endless and online modes are free.
+
+- Online, species are cosmetic: nobody can buy an advantage.
+
+- No banner ads and no forced ads.
+
+- Prices are shown by the App Store in your currency before you confirm. See the FAQ (/mosquito-site/faq/) for the full list.
+
+### Accessibility and languages
+
+Settings include one-finger, two-thumb and classic controls, left-handed layout, reduced motion, a colour-blind thermal palette, gyro assist, haptics and separate music and sound volumes. The game is translated into English, Turkish, German, Spanish, French and Arabic.
+
+Download free on the App Store (https://apps.apple.com/app/id6827985347)Free · iPhone · iOS 15 or later · Android not announced
+
+## Game modes in Mosquito Simulator: Bite & Run
+URL: https://amert9696.github.io/mosquito-site/modes/
+
+The game has five modes: a 20-night story, a Daily Night that is the same for every player, a weekly ranked room called Game of the Week, an endless Sleepless Night and Online 1 vs 3. The Daily, Weekly and endless modes open after you win night 03. All five are free.
+
+### How do the modes compare?
+
+| Mode | Goal | Players | Internet |
+
+| Story | Win 20 nights, earn up to 3 stars each | Solo | Only to download a room the first time |
+
+| Daily Night | Win today's room with two twists | Solo, same room worldwide | Only to download a room the first time |
+
+| Game of the Week | Most stars, then fastest time | Solo, ranked on a shared board | Yes, to post your run |
+
+| Sleepless Night | Drink as much blood as you can | Solo, endless | No |
+
+| Online 1 vs 3 | Mosquitoes: 7 bites in 3 minutes. Human: survive 3 minutes | 4 per match, bots fill empty seats | Yes for real players; offline it plays with bots |
+
+### Story: one summer, twenty nights
+
+The campaign follows one mosquito born in a bathroom drain in June, with one summer to live. It runs in four chapters of five nights: The House, After Hours, On the Road and Nightlife. Night 10 (Racket Uncle) and night 20 (Pest Control) are boss nights. Each night is dated on a summer calendar and adds one new idea, so the game teaches itself as you go.
+
+### Daily Night: the same room for everyone
+
+Every day at 00:00 UTC, every player gets the same room with the same two mutators. The mutators are picked from six: Drafty (gusts of wind), Failing bulbs (lights flicker), Lighter sleep, Smaller sips, Wide golden moment and Early dawn. Winning pays 150 Blood, plus 25 for each day in your streak, up to 300 after a week.
+
+### Game of the Week: one ranked room
+
+From Monday 00:00 UTC to the next Monday, everyone plays the same room. Only won nights count. The board ranks by stars first, then by time. The player who leads when the week ends becomes the champion and receives the Gold Champion body, which is never sold.
+
+### Sleepless Night: the endless mode
+
+There is no dawn and no window. You stay in the first bedroom and drink for as long as you survive, while the sleeper sleeps more lightly every few minutes. Every 90 seconds the night mutates, alternating a gift for you and a curse on the room:
+
+- Gifts: Long needle (the golden moment lasts twice as long), Thirst (every sip pays 20% more), Silent wings (they hear and see you less).
+
+- Curses: Light sleepers, Failing bulbs, A draft.
+
+Your score is the blood you drank.
+
+### Online 1 vs 3: one human, three mosquitoes
+
+A match lasts three minutes. The three mosquitoes win by landing 7 bites before time runs out. The human wins by lasting the three minutes, using slaps, bug spray and the lamp. You choose your side before you search.
+
+| Mosquito class | Ability | Unlocks |
+
+| Sniper | Bites from 1 m away; low blood capacity | From the start |
+
+| Toxic | Blurs the human's vision for 3 seconds; louder buzz | Level 4 |
+
+| Ghost | 5 seconds of silence and half-invisibility; no dash | Level 8 |
+
+| Tank | Survives one slap; slowest | Level 12 |
+
+- Play with friends: open a private room and share its code. When you press start, bots take the empty seats.
+
+- Real players pay more: a room full of bots pays 40% of the rewards; a full room of people pays 120%. Your first win of the day against real players gives double XP and 100 Blood.
+
+- Ranks: Copper, Silver, Gold, Obsidian, Crimson and Apex.
+
+- No paid advantage: species are cosmetic online.
+
+- No connection? If the servers cannot be reached, the match runs against bots on your phone.
+
+New to the game? Start with how to play (/mosquito-site/how-to-play/), then choose your species (/mosquito-site/species/).
+
+Download free on the App Store (https://apps.apple.com/app/id6827985347)Free · iPhone · iOS 15 or later · Android not announced
+
+## The 10 mosquito species you can play
+URL: https://amert9696.github.io/mosquito-site/species/
+
+Mosquito Simulator: Bite & Run has 10 playable mosquitoes, and every one is a real species or genus: Culex, Aedes aegypti, Anopheles, the Asian tiger mosquito, the gallinipper, Culiseta, Wyeomyia, Deinocerites, Sabethes cyaneus and Toxorhynchites. Each in-game bonus comes from a real trait, such as the gallinipper's size or Sabethes' speed. Two are free, five are earned with Blood and three are optional purchases.
+
+### How do the species compare?
+
+Values are relative to Culex, the balanced baseline (100%). “Buzz” is how loud you are: lower is quieter, so sleepers notice you later. “Itch delay” is how long a bite goes unnoticed. Data from game version 1.0, checked 24 November 2026; balance may change in updates.
+
+| Species | Real-world trait | In-game strengths | Trade-offs | How to get it |
+
+| Culex | Common house mosquito, active from dusk to dawn | Balanced baseline | None | Free |
+
+| Aedes aegypti | Lyre-shaped silver pattern, white-banded legs | Speed +15%, acceleration +15%, bite speed +10% | Blood capacity −15%, buzz +5%, itch comes 10% sooner | Free |
+
+| Anopheles | Rests with its abdomen tilted up; the only genus that carries human malaria | Buzz −38%, itch delay +15% | None | 1,600 Blood, or the Starter Nest offer |
+
+| Asian tiger | One white stripe down the back | Acceleration +20%, bite speed +20%, speed +10%, buzz −5% | Blood capacity −5%, itch comes 10% sooner | 1,400 Blood |
+
+| Gallinipper | Very large, shaggy legs, painful bite | Blood capacity +60%, survives one slap | Speed −22%, acceleration −20%, buzz +35%, bite speed −10% | 1,000 Blood |
+
+| Culiseta | Large and cold-hardy; adults survive the winter | Blood capacity +35%, itch delay +20%, longer heat sense | Speed −8%, acceleration −5%, buzz +10% | 1,200 Blood |
+
+| Wyeomyia | Tiny; breeds in pitcher plants | Buzz −65% (quietest), +1 dash, acceleration +25% | Blood capacity −30% | 1,800 Blood |
+
+| Deinocerites | Lives in crab burrows; males have very long antennae | Locks onto breath twice as fast, longer heat sense, buzz −20%, itch delay +20% | None | Purchase (US$2.99) |
+
+| Sabethes cyaneus | Iridescent blue with feathery leg paddles | Speed +20%, acceleration +35%, +2 dashes, bite speed +15% | None | Purchase (US$4.99) |
+
+| Toxorhynchites | The elephant mosquito, among the largest; adults never drink blood | Blood capacity +40%, bite speed +35%, itch delay +40%, survives one slap, +1 dash | Buzz +20% | Purchase (US$6.99) |
+
+The three purchasable species are also sold together as the Species Collection (US$9.99). US prices as of 24 November 2026; the App Store shows the price in your currency. In Online 1 vs 3, species are cosmetic only.
+
+### Culex: the house mosquito
+
+In real life: Culex pipiens, the northern house mosquito, is most active from dusk to dawn and prefers to feed on birds, which is how it keeps West Nile virus circulating; people are occasional hosts (ECDC (https://www.ecdc.europa.eu/en/infectious-disease-topics/related-public-health-topics/disease-vectors/facts/mosquito-factsheets/culex-pipiens)).
+
+In the game: the balanced baseline every other species is measured against; the game describes it as the one that “finds your ear at 3 a.m.” Free from the start.
+
+### Aedes aegypti: the yellow fever mosquito
+
+In real life: a dark mosquito with a silvery, lyre-shaped pattern on its back and white bands on its legs, at home in towns and cities. It spreads dengue, Zika, chikungunya and yellow fever viruses (CDC (https://www.cdc.gov/dengue/stories/unwanted-mosquitoes.html)).
+
+In the game: quick and agile, with a fast bite, but its tank is 15% smaller and the itch arrives sooner. Free from the start.
+
+### Anopheles: the malaria mosquito
+
+In real life: human malaria is transmitted only by female Anopheles mosquitoes; of about 430 species, 30 to 40 carry it. You can spot one at rest: it holds its abdomen sticking up in the air instead of parallel to the surface (CDC (https://www.cdc.gov/malaria/about/biology/)).
+
+In the game: a stealth species. Its buzz is 38% quieter and its bites go unnoticed 15% longer. Costs 1,600 Blood, or comes in the one-time Starter Nest offer.
+
+### Asian tiger mosquito (Aedes albopictus)
+
+In real life: black with white leg bands and a single silvery stripe running down its back. It has spread far beyond Asia. Because it feeds on animals as well as people, the CDC rates it a less efficient spreader of viruses than Aedes aegypti (CDC (https://www.cdc.gov/dengue/stories/unwanted-mosquitoes.html)).
+
+In the game: the fastest biter among the Blood species: bite speed +20%, acceleration +20%. Costs 1,400 Blood.
+
+### Gallinipper (Psorophora ciliata)
+
+In real life: one of the largest mosquitoes in eastern North America, with shaggy hind legs and a painful bite. Its eggs can wait in dry soil for years until a flood hatches them, and its larvae are predators that eat other mosquito larvae (University of Florida (https://ask.ifas.ufl.edu/publication/IN967)).
+
+In the game: a flying tank: 60% more blood capacity and it survives one slap, but it is slow and loud. Costs 1,000 Blood.
+
+### Culiseta: the winter mosquito
+
+In real life: Culiseta inornata, the winter marsh mosquito, is one of the larger species in California at up to about 10 mm, and its females survive the cold season as adults in sheltered places (Walter Reed Biosystematics Unit (https://wrbu.si.edu/index.php/vectorspecies/mosquitoes/inornata); Napa County Mosquito Abatement District (https://napamosquito.org/winter-marsh-mosquito-culiseta-inornata)).
+
+In the game: a big tank (+35%), bites that stay unnoticed 20% longer and a longer heat sense, paid for with a slightly slower, louder flight. Costs 1,200 Blood.
+
+### Wyeomyia: the pitcher-plant mosquito
+
+In real life: Wyeomyia smithii grows up in the water held inside pitcher plants. Its northern populations do not bite at all: females lay their eggs without a blood meal (Animal Diversity Web (https://animaldiversity.org/accounts/Wyeomyia_smithii/)).
+
+In the game: the quietest mosquito in the roster (buzz −65%) with an extra dash, but a 30% smaller tank. Costs 1,800 Blood.
+
+### Deinocerites: the crabhole mosquito
+
+In real life: all 18 species live with land crabs: larvae develop in the water at the bottom of crab burrows and adults rest higher up in the burrow. Males have unusually long antennae, which they use to sense pupae at the water's surface. They are mainly tropical and are not important pests of people (University of Florida (https://ask.ifas.ufl.edu/publication/IN291)).
+
+In the game: those long antennae become a scent specialist: it locks onto breath plumes twice as fast and senses heat from further away. Optional purchase.
+
+### Sabethes cyaneus: the jewel mosquito
+
+In real life: covered in iridescent blue scales, with paddles of long scales on its middle legs in both sexes. It flies by day in the forest canopy of Central and South America (University of Florida (https://ask.ifas.ufl.edu/publication/IN1398)).
+
+In the game: the fastest mosquito: speed +20%, acceleration +35% and two extra dashes. Optional purchase.
+
+### Toxorhynchites: the elephant mosquito
+
+In real life: one of the largest mosquitoes, with a downward-curved proboscis. The twist: adults never drink blood. They feed on nectar and other sugars, and their larvae eat other mosquito larvae, which is why they have been studied for mosquito control (University of Florida (https://ask.ifas.ufl.edu/publication/IN1380)).
+
+In the game: we gave the gentle giant a vampire's job anyway: the biggest tank after the gallinipper, the fastest bite, it survives a slap and has an extra dash, but it is loud. Optional purchase.
+
+### Which species should you pick?
+
+- Learning the game: Culex. No weaknesses to manage.
+
+- Stealth and three-star “ghost” runs: Wyeomyia or Anopheles.
+
+- Big blood targets: gallinipper or Culiseta.
+
+- Fast, risky play: Aedes aegypti, the Asian tiger or Sabethes.
+
+Want the science behind the scent bonuses? Read how mosquitoes find people (/mosquito-site/guide/how-mosquitoes-find-you/).
+
+Download free on the App Store (https://apps.apple.com/app/id6827985347)Free · iPhone · iOS 15 or later · Android not announced
+
+## Mosquito facts and guides
+URL: https://amert9696.github.io/mosquito-site/guide/
+
+These guides explain the real biology behind Mosquito Simulator: Bite & Run, with every claim linked to a study, the CDC or a university source. Each one also shows exactly where the game follows the science and where it bends it for fun.
+
+- How do mosquitoes find you? CO₂, heat and scent Four studies from 2014 to 2024 on breath, sight, body heat and skin odour, and how the game's breath plumes model them. (/mosquito-site/guide/how-mosquitoes-find-you/)
+
+- Why do mosquito bites itch? What is in mosquito saliva, why only females bite, what helps, and how the game's bite ring uses the itch as a clock. (/mosquito-site/guide/why-mosquito-bites-itch/)
+
+- Games where you play as an insect From Mister Mosquito (2001) to 1-vs-4 mosquito PvP on Steam: platforms, years and what you do. (/mosquito-site/guide/games-where-you-play-as-an-insect/)
+
+### Looking for mosquito species?
+
+The species page (/mosquito-site/species/) covers ten real mosquitoes, from the house mosquito to the elephant mosquito, with sources for each.
+
+### How these guides are written
+
+The developer of the game writes and checks each guide. Facts come from peer-reviewed studies, public-health agencies and university extension services, linked inline and listed at the end. Game details come from the game's own data. If you spot an error, write to us via the support page (/mosquito-site/support/) and we will correct it and update the date.
+
+## How do mosquitoes find you? CO₂, heat and scent
+URL: https://amert9696.github.io/mosquito-site/guide/how-mosquitoes-find-you/
+
+Female mosquitoes find people by stacking several cues: they pick up the carbon dioxide we breathe out, which makes them fly toward dark shapes, then follow body heat and skin odour at closer range. A 2014 study in Cell showed that sensing CO₂ switches on their attraction to heat and lactic acid, and a 2024 study in Nature found that Aedes aegypti can also sense infrared from skin up to about 70 cm away.
+
+### What is the first thing a mosquito notices?
+
+Carbon dioxide. Every breath leaves a plume of CO₂ that drifts on the air, and host-seeking female mosquitoes react to it. In 2014, Conor McMeniman and colleagues in Leslie Vosshall's lab at Rockefeller University knocked out Gr3, a part of the CO₂ receptor in Aedes aegypti. Without it, mosquitoes no longer responded to heat and lactic acid the way normal mosquitoes did when CO₂ was present: CO₂ acts as a gate that turns other cues on. Yet the mutants could still find a live human in a semi-field test, because heat and odour together were enough. The authors concluded that no single cue is essential; the cues back each other up (McMeniman et al., Cell, 2014 (https://pmc.ncbi.nlm.nih.gov/articles/PMC4007582/)).
+
+### Can mosquitoes see you?
+
+Yes, once they have smelled you. In a wind tunnel, Floris van Breugel and colleagues at Caltech and the University of Washington found that female mosquitoes ignored a dark, high-contrast object until they had flown through a CO₂ plume; after that, they explored it. A brief whiff was enough, even if the CO₂ was gone by the time they saw the object. Warmth was different: they preferred a warm object whether or not CO₂ was present. The study describes smell, vision and heat as independent modules that run in sequence (van Breugel et al., Current Biology, 2015 (https://pmc.ncbi.nlm.nih.gov/articles/PMC4546539/)).
+
+### How close does a mosquito need to be to feel your body heat?
+
+Closer than for CO₂, but further than touching distance. In 2024, Avinash Chandel, Nicolas DeBeaubien and colleagues in Craig Montell's lab at UC Santa Barbara showed that Aedes aegypti detect thermal infrared with TRPA1, a heat-sensitive channel in neurons at the tip of the antenna. Infrared from a source at skin temperature (34 °C) roughly doubled host-seeking when combined with CO₂ and human odour, but infrared on its own had no effect. The effect reached about 70 cm (Chandel et al., Nature, 2024 (https://doi.org/10.1038/s41586-024-07848-5); UC Santa Barbara (https://neuroscience.ucsb.edu/news/all/2024/mosquitoes-sense-infrared-body-heat-help-track-humans-down)).
+
+### Why do mosquitoes bite some people more than others?
+
+Skin chemistry is a big part of it. Maria Elena De Obaldia and colleagues tested the skin odour of volunteers against Aedes aegypti over several years. The most attractive people had much higher levels of carboxylic acids on their skin, and they stayed attractive across repeated tests. The study shows an association, not proof that the acids cause the preference (De Obaldia et al., Cell, 2022 (https://pmc.ncbi.nlm.nih.gov/articles/PMC10069481/)).
+
+### The cues at a glance
+
+| Cue | When it matters | Key finding | In the game |
+
+| Exhaled CO₂ | First, at the longest range | Gates attraction to heat and lactic acid (2014) | Visible breath plumes; riding one locks the scent |
+
+| Dark shapes | After smelling CO₂ | Odour switches on visual attraction (2015) | Sleepers' silhouettes and open skin stand out in the dark |
+
+| Body heat (infrared) | Mid range, up to about 70 cm | Doubles host-seeking with other cues (2024) | Some species have a longer heat sense |
+
+| Skin odour | Close range, choosing whom to bite | Carboxylic acids linked to attractiveness (2022) | The scent lock guides you to skin and pays more |
+
+### How does Mosquito Simulator model this?
+
+We turned the science into rules you can feel with one thumb, and simplified it on purpose:
+
+- Breath plumes: every sleeper breathes out a warm, visible plume. Fly inside it and you lock onto the scent: an on-screen trail leads to skin and the next bites pay up to 50% more blood. That is CO₂ gating plus odour, compressed into one mechanic.
+
+- Heat sense: Culiseta and Deinocerites sense heat from further away, and Toxorhynchites further still. See the species page (/mosquito-site/species/).
+
+- Long antennae, faster lock: Deinocerites males have very long antennae, so in the game Deinocerites locks onto a plume twice as fast. That one is a playful stretch: in reality the long antennae help males find pupae.
+
+- The other side: people find you by sight and sound, so light, noise and open eyes raise the room's alertness, and landing on a dark wall hides you.
+
+What is invented: blood “tastes” (coffee, sugar, wine) are a game idea, not science.
+
+### What does this mean for avoiding bites?
+
+Because the cues back each other up, blocking only one of them rarely works, as the 2014 study pointed out. The CDC recommends EPA-registered repellents with DEET, picaridin, IR3535, oil of lemon eucalyptus, para-menthane-diol or 2-undecanone, used as the label directs (CDC (https://www.cdc.gov/mosquitoes/prevention/index.html)). For what happens after a bite, read why mosquito bites itch (/mosquito-site/guide/why-mosquito-bites-itch/).
+
+### Sources
+
+- McMeniman CJ, Corfas RA, Matthews BJ, Ritchie SA, Vosshall LB. Multimodal integration of carbon dioxide and other sensory cues drives mosquito attraction to humans. Cell 156(5):1060–1071, 2014. PMC4007582 (https://pmc.ncbi.nlm.nih.gov/articles/PMC4007582/)
+
+- van Breugel F, Riffell J, Fairhall A, Dickinson MH. Mosquitoes use vision to associate odor plumes with thermal targets. Current Biology 25:2123–2129, 2015. PMC4546539 (https://pmc.ncbi.nlm.nih.gov/articles/PMC4546539/)
+
+- Chandel A, DeBeaubien NA, et al. Thermal infrared directs host-seeking behaviour in Aedes aegypti mosquitoes. Nature 633:615–623, 2024. doi:10.1038/s41586-024-07848-5 (https://doi.org/10.1038/s41586-024-07848-5)
+
+- De Obaldia ME, et al. Differential mosquito attraction to humans is associated with skin-derived carboxylic acid levels. Cell 185(22), 2022. PMC10069481 (https://pmc.ncbi.nlm.nih.gov/articles/PMC10069481/)
+
+- CDC. Preventing Mosquito Bites. cdc.gov (https://www.cdc.gov/mosquitoes/prevention/index.html)
+
+## Why do mosquito bites itch?
+URL: https://amert9696.github.io/mosquito-site/guide/why-mosquito-bites-itch/
+
+A mosquito bite itches because your body reacts to the saliva the mosquito injects while she drinks. According to the CDC, a puffy, reddish bump usually appears a few minutes after the bite, and a hard, itchy, reddish-brown bump can follow a day or so later. Only female mosquitoes bite: most of them cannot produce eggs without a blood meal.
+
+### Which mosquitoes bite, and why?
+
+Only females. Female mosquitoes bite people and animals to get a blood meal, and most cannot produce eggs without one. Males do not bite people or animals (CDC (https://www.cdc.gov/mosquitoes/about/about-mosquito-bites.html)). Some species never bite at all: the adults of Toxorhynchites, the elephant mosquito, feed only on sugars (University of Florida (https://ask.ifas.ufl.edu/publication/IN1380)).
+
+### What is in mosquito saliva?
+
+Saliva is the mosquito's toolkit for drinking without being noticed. Skin and blood are built to stop bleeding, and the saliva works against that. A 2025 review estimates that mosquito saliva contains about 100 to 200 proteins, and that 30–40% of them do not resemble any known protein. One example from Aedes aegypti is aegyptin, which binds collagen and stops platelets from sticking together, so the blood keeps flowing. Other salivary compounds widen blood vessels (Guo et al., Biomolecules, 2025 (https://pmc.ncbi.nlm.nih.gov/articles/PMC11764250/); Ribeiro et al., 2010 (https://pmc.ncbi.nlm.nih.gov/articles/PMC2950210/)).
+
+### Why does the itch start after she has gone?
+
+The itch is your immune response, not the bite itself. The proteins in the saliva are foreign, and the body reacts to them; the CDC describes the result as a bump and itching. That reaction takes minutes to build, which is why the bump usually appears after the mosquito has left, and a second, harder bump can follow about a day later (CDC (https://www.cdc.gov/mosquitoes/mosquito-bites/symptoms.html)).
+
+### What does a bite look like over time?
+
+| When | What you usually see (CDC) |
+
+| During the bite | Often nothing: the mosquito injects saliva while she drinks |
+
+| A few minutes later | A puffy, reddish bump |
+
+| About a day later | A hard, itchy, reddish-brown bump, or several |
+
+| If it gets worse | Redness, warmth or a red streak spreading from the bite can mean infection: see a healthcare provider |
+
+### What helps a mosquito bite stop itching?
+
+The CDC suggests:
+
+- Apply an ice pack for 10 minutes to reduce swelling and itching.
+
+- Try a paste of baking soda and water.
+
+- Use an over-the-counter anti-itch or antihistamine cream.
+
+- Do not scratch: bites can become infected.
+
+See a healthcare provider if symptoms get worse. This page is general information, not medical advice. In many parts of the world mosquito bites can also transmit viruses and parasites; the CDC's prevention guide (https://www.cdc.gov/mosquitoes/prevention/index.html) lists the repellents it recommends.
+
+### How does Mosquito Simulator model the itch?
+
+The itch is the clock of every bite in the game. While you drink, a ring fills around the BITE button:
+
+- Gold: just before the itch arrives, the ring turns gold. Let go now for a perfect bite and 25% more blood.
+
+- Red: hold too long and the sleeper feels the itch and reacts: a slap, a roll onto the bitten spot, or waking up.
+
+- Itch delay: species differ. Toxorhynchites bites go unnoticed 40% longer than Culex, Culiseta and Deinocerites 20% longer, Anopheles 15% longer; Aedes aegypti and the gallinipper are noticed 10% sooner. Compare them on the species page (/mosquito-site/species/).
+
+The game compresses minutes into seconds and makes the itch arrive while the mosquito is still there; real bites usually start to itch after she has flown. To see what draws mosquitoes in the first place, read how mosquitoes find you (/mosquito-site/guide/how-mosquitoes-find-you/).
+
+### Sources
+
+- CDC. About Mosquito Bites. cdc.gov (https://www.cdc.gov/mosquitoes/about/about-mosquito-bites.html) (page dated 21 June 2024)
+
+- CDC. Mosquito Bite Symptoms and Treatment. cdc.gov (https://www.cdc.gov/mosquitoes/mosquito-bites/symptoms.html) (page dated 21 June 2024)
+
+- Guo et al. Unraveling the molecular mechanisms of mosquito salivary proteins. Biomolecules 15(1):82, 2025. PMC11764250 (https://pmc.ncbi.nlm.nih.gov/articles/PMC11764250/)
+
+- Ribeiro JMC, Mans BJ, Arcà B. An insight into the sialome of blood-feeding Nematocera. Insect Biochemistry and Molecular Biology, 2010. PMC2950210 (https://pmc.ncbi.nlm.nih.gov/articles/PMC2950210/)
+
+- University of Florida IFAS. Elephant mosquito, Toxorhynchites rutilus. EDIS IN1380 (https://ask.ifas.ufl.edu/publication/IN1380)
+
+## Games where you play as an insect
+URL: https://amert9696.github.io/mosquito-site/guide/games-where-you-play-as-an-insect/
+
+Playing as an insect is a small but long-running idea in games: Mister Mosquito put players in a mosquito's wings on PlayStation 2 in 2001, and since then there have been bee, ant and bug games on PC and console, mosquito games on phones and Roblox, and a one-human-versus-four-mosquitoes party game on Steam (2025). Below are notable examples with platform, year and what you actually do. Dates were checked on 24 November 2026.
+
+Disclosure: we make Mosquito Simulator: Bite & Run. It is listed last, and this page does not rank games.
+
+### Insect games compared
+
+| Game | You play as | Platforms | First released | What you do |
+
+| Mister Mosquito (Ka) | A mosquito | PlayStation 2; re-released on PS4 and PS5 in 2024 | June 2001 (Japan) | Drink blood from the three members of the Yamada family without being swatted |
+
+| Bee Simulator | A honeybee | PC, PlayStation 4, Xbox One, Nintendo Switch | November 2019 | Explore a park, collect pollen and protect the hive |
+
+| Bug Fables: The Everlasting Sapling | A team of three bugs | PC; PS4, Xbox One and Switch in 2020 | 21 November 2019 | A turn-based adventure role-playing game |
+
+| Murder Hornet! | A hornet | iPhone | June 2020 (App Store) | Arcade “bee sting simulator” levels |
+
+| Mosquito io | A mosquito | iPhone and Android | November 2022 (App Store) | Arcade mosquito game with short rounds |
+
+| Empire of the Ants | An ant, 103,683rd | PC, PlayStation 5, Xbox Series X|S | 7 November 2024 | Real-time strategy: lead your colony's armies |
+
+| The Mosquito Gang | A human or a mosquito | PC (Steam) | 20 May 2025 | Party game: co-op against swarms, or 1 human vs 4 mosquitoes |
+
+| Feed A Mosquito | A mosquito keeper | Roblox | August 2026 | Feed mosquitoes, hatch eggs from boss mosquitoes, upgrade a base |
+
+| Mosquito Simulator: Bite & Run | A mosquito (10 real species) | iPhone | 9 November 2026 | Stealth: 20 realistic rooms, bite sleepers, escape before dawn; online 1 human vs 3 mosquitoes |
+
+### What do insect games have in common?
+
+Three things come up again and again. Scale: an ordinary room becomes a huge level, which is the whole appeal of Mister Mosquito and of our own rooms. Stealth: a mosquito or a bee is fragile, so the tension comes from not being noticed rather than from fighting. Comedy: annoying a giant human is funny, which is why mosquito and hornet games on phones lean into slapstick.
+
+### Which games let you play as a mosquito?
+
+Mister Mosquito is the classic: a 2001 PS2 stealth game set in one family's house that sold 41,006 copies in Japan in its launch week, according to Famitsu figures cited by Wikipedia (https://en.wikipedia.org/wiki/Mister_Mosquito), and returned on PS4 and PS5 in 2024. On phones, Mosquito io (Supercent, 2022) has about 45,000 ratings on the US App Store; Moshquito! (Lion Studios, 2021) is another (iTunes Search API, 24 November 2026). On Roblox, Feed A Mosquito passed 50 million visits in 2026. Mosquito Simulator: Bite & Run is a newer, more realistic take: real mosquito species and real rooms.
+
+### Are there games where one player is the human?
+
+Yes. The Mosquito Gang (https://store.steampowered.com/app/2811100/) on Steam (Space Raccoon Game Studio, 2025) has an asymmetric mode in which one player is the human doing chores and four players are mosquitoes with powers such as invisibility. Mosquito Simulator: Bite & Run has the same idea on iPhone with three mosquitoes: Online 1 vs 3 (/mosquito-site/modes/) gives the human three minutes to survive and the mosquitoes need seven bites.
+
+### How should you choose?
+
+- Want a story on console: Bug Fables, or Mister Mosquito on PS4/PS5.
+
+- Want strategy: Empire of the Ants.
+
+- Want a calm open world: Bee Simulator.
+
+- Want a party game with friends on PC: The Mosquito Gang.
+
+- Want stealth on iPhone, solo or online: Mosquito Simulator: Bite & Run. See how to play (/mosquito-site/how-to-play/).
+
+### Sources
+
+- Mister Mosquito: Wikipedia (https://en.wikipedia.org/wiki/Mister_Mosquito)
+
+- Bee Simulator launch (Bigben, 14 November 2019): Gaming Nexus (https://gamingnexus.com/News/44213/Now-you-can-be-a-bee-in-Bee-Simulator)
+
+- Bug Fables PC launch: Gematsu (https://www.gematsu.com/2019/09/bug-fables-the-everlasting-sapling-for-pc-launches-november-21); console launch: Gematsu (https://www.gematsu.com/2020/04/bug-fables-the-everlasting-sapling-for-ps4-xbox-one-and-switch-launches-may-28)
+
+- Empire of the Ants release date: Gematsu (https://www.gematsu.com/2024/06/empire-of-the-ants-launches-november-7)
+
+- The Mosquito Gang: Steam store page (https://store.steampowered.com/app/2811100/)
+
+- Feed A Mosquito: RoWatcher (https://rowatcher.com/games/10747719434)
+
+- App Store release dates and rating counts: Apple iTunes Search API, looked up 24 November 2026
+
+## Frequently asked questions
+URL: https://amert9696.github.io/mosquito-site/faq/
+
+Mosquito Simulator: Bite & Run is free on iPhone (iOS 15 or later), has optional in-app purchases, plays offline once a room is downloaded, and has no announced Android release date. The answers below were checked on 24 November 2026.
+
+### Is Mosquito Simulator: Bite & Run free?
+
+Yes. The download is free, and the whole story and all five modes can be played without paying. Optional in-app purchases are listed below.
+
+### Which devices does it run on?
+
+iPhone with iOS 15.0 or later. The game is built for iPhone and plays in landscape. The download is about 393 MB, and some rooms download the first time you play them.
+
+### Is there an Android version?
+
+Not yet. An Android version is in development, but no release date has been announced. This page will be updated when there is one.
+
+### Can I play offline?
+
+Mostly. Story nights, the Daily Night and the endless Sleepless Night work offline once their room has been downloaded. The Game of the Week needs a connection to post your run to the board. Online 1 vs 3 needs a connection to play with real people; without one, it runs against bots on your phone.
+
+### Which languages is the game in?
+
+English, Turkish, German, Spanish, French and Arabic. The game uses your device language and falls back to English.
+
+### What can I buy, and how much does it cost?
+
+Everything is optional. US prices as of 24 November 2026; the App Store shows the price in your currency before you confirm.
+
+| Item | US price |
+
+| Mosquito Club subscription: no ads, 120 Blood a day, +10% Night Pass XP, one Legendary item per season | $4.99 a month or $29.99 a year |
+
+| No Ads (one-time) | $3.99 |
+
+| Night Pass premium track, per season | $4.99 ($9.99 with 10 extra tiers) |
+
+| Species: Deinocerites, Sabethes cyaneus, Toxorhynchites; or all three together | $2.99, $4.99, $6.99; $9.99 |
+
+| Blood packs (in-game currency) | $1.99 to $19.99 |
+
+| Skins, wings, needles, bundles and one-time offers | $0.99 to $9.99 |
+
+Blood Sacs, the game's reward boxes, are never sold: you earn them by playing, and the odds are shown in the game.
+
+### Does the game have ads?
+
+There are no banner ads and no forced ads. Where a rewarded video is offered, for example for bonus Blood, watching it is always your choice. No Ads and the Mosquito Club turn those rewards into instant ones.
+
+### Can players buy an advantage online?
+
+No. In Online 1 vs 3, species are cosmetic, so a paid species plays exactly like a free one.
+
+### How do I restore my purchases?
+
+Open Settings in the game and tap Restore purchases. Non-consumable items, No Ads and the Mosquito Club come back on any device signed in to the same Apple Account. Blood packs and other consumables cannot be restored.
+
+### How do I cancel the Mosquito Club?
+
+iPhone Settings → your name → Subscriptions → Mosquito. Cancel at least 24 hours before the renewal date. Deleting the game does not cancel the subscription.
+
+### How do I get a refund?
+
+Refunds are handled by Apple at reportaproblem.apple.com (https://reportaproblem.apple.com).
+
+### Do I need an account?
+
+No. The game creates an anonymous Player ID for cloud saves and leaderboards, and it never asks for your name, email or phone number. You can choose a display name in Settings if you want to appear on the boards.
+
+### How do I delete my data?
+
+In the game, open Settings → Delete account (this needs an internet connection). Or email us with the subject “Delete my data” and the Player ID shown under Profile; we delete your cloud save and profile within 30 days. Purchases stay with your Apple Account. Details are in the Privacy Policy (/mosquito-site/privacy.html).
+
+### Is it suitable for children?
+
+The App Store rates it 9+ for mild cartoon violence and mild horror, and the game is not directed at children under 13. Players whose age is unknown get child-safe settings: non-personalised ads and no pop-up offers. Parents can use Apple's Ask to Buy and Screen Time to control purchases. Online matches have no free-text chat, only a few preset quick lines such as “Nice bite!”.
+
+### How do I play with friends?
+
+Open Online, create a private room and share its code. Friends join with the code; when you start, bots take any empty seats. How online works (/mosquito-site/modes/).
+
+### Who makes the game?
+
+Ali Mert Güleç, an independent developer. Press can find facts and images in the press kit (/mosquito-site/press/); players can reach us on the support page (/mosquito-site/support/).
+
+## Press kit
+URL: https://amert9696.github.io/mosquito-site/press/
+
+Mosquito Simulator: Bite & Run is a stealth game for iPhone in which you play as a mosquito, made by independent developer Ali Mert Güleç and released on 9 November 2026. Everything on this page may be used for coverage, reviews and videos about the game, without asking.
+
+### Fact sheet
+
+| Title | Mosquito Simulator: Bite & Run |
+
+| Developer and publisher | Ali Mert Güleç (independent) |
+
+| Release date | 9 November 2026, worldwide except mainland China |
+
+| Platform | iPhone, iOS 15.0 or later. Android: in development, no date announced |
+
+| Price | Free, with optional in-app purchases |
+
+| Genre | Stealth simulation; Simulation and Action on the App Store |
+
+| Age rating | 9+ |
+
+| Content | 20-night story in 4 chapters with 2 boss nights; Daily Night, Game of the Week, endless Sleepless Night; Online 1 vs 3 with bots filling empty seats; 10 real mosquito species |
+
+| Languages | English, Turkish, German, Spanish, French, Arabic |
+
+| Engine | Unity |
+
+| App Store | apps.apple.com/app/id6827985347 |
+
+### Short description (40 words)
+
+Mosquito Simulator: Bite & Run is a free iPhone stealth game where you play as a mosquito: sneak through 20 realistic rooms, land the perfect bite on sleeping people, dodge the slap in slow motion and escape before dawn, solo or online.
+
+### Long description
+
+You are a mosquito. They are asleep. Mostly. Mosquito Simulator: Bite & Run follows one mosquito through one summer: 20 nights in real places at insect scale, from a bedroom to a baby's room, an exam hall, a camping tent, a cinema and the metro. Sleepers breathe out visible warm plumes that lead you to skin, every sip makes you heavier, and a perfect “golden” bite is a matter of letting go at the right moment. When a hand comes down, time slows, and a well-timed dash saves you and a shareable clip.
+
+Beyond the story there is a Daily Night that is the same for everyone, a ranked Game of the Week, an endless mode and Online 1 vs 3, in which one player is the human and three are mosquitoes. The ten playable mosquitoes are real species, from the house mosquito to the iridescent Sabethes, each with a bonus based on its biology. There is no music track: a live synth plays your flight.
+
+### Logo and screenshots
+
+All screenshots are real, unedited frames captured from the game. Right-click or long-press to save; higher-resolution originals are available on request.
+
+### Contact
+
+Press and creators: Support (/mosquito-site/support/). Please write in English or Turkish.
+
+Related: all features (/mosquito-site/features/), the 10 species (/mosquito-site/species/), FAQ (/mosquito-site/faq/).
+
+## Support
+URL: https://amert9696.github.io/mosquito-site/support/
+
+For help with Mosquito Simulator: Bite & Run, email alimertgulec38@gmail.com (mailto:alimertgulec38@gmail.com?subject=Mosquito%20support). We answer within 2 business days. Please include your device model and, for purchases, the date of the purchase. Most questions are answered below.
+
+### My purchase did not arrive
+
+Open Settings in the game and tap Restore purchases. Non-consumable items, No Ads and the Mosquito Club come back on any device signed in to the same Apple Account. Blood packs and other consumables cannot be restored. If something is still missing, email us with the date of the purchase.
+
+### How do I cancel the Mosquito Club?
+
+iPhone Settings → your name → Subscriptions → Mosquito. Cancel at least 24 hours before the renewal date. Deleting the game does not cancel it.
+
+### How do refunds work?
+
+Refunds are handled by Apple: reportaproblem.apple.com (https://reportaproblem.apple.com).
+
+### How do I delete my data?
+
+In the game: Settings → Delete account (needs an internet connection). Or email us from the address you want answered with the subject “Delete my data” and the Player ID shown in the game under Profile. We delete your cloud save and profile within 30 days.
+
+### I lost my progress
+
+Progress is saved on your iPhone and backed up to the cloud with an anonymous Player ID. To move it to a new phone, link your account in Settings → Link Apple / Google before you switch. If it is gone, email us your Player ID and we will check the backup.
+
+### Online says it cannot reach the servers
+
+When the online servers cannot be reached, the match runs against bots on your phone so you can still play. Check your connection and try again; if it keeps happening, email us the time it happened.
+
+### How do I report a bug?
+
+Email us with your iPhone model, iOS version, the night or screen where it happened and, if you can, a screenshot or screen recording.
+
+### I won the Game of the Week
+
+Congratulations! Tap Claim your prize on the champion card in the game. It opens an email to us with the week and your claim code in the subject; send it as it is.
+
+More answers: FAQ (/mosquito-site/faq/) · Privacy Policy (/mosquito-site/privacy.html) · Terms of Use (/mosquito-site/terms.html) · How to play (/mosquito-site/how-to-play/)

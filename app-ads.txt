@@ -1,0 +1,6 @@
+# app-ads.txt for Mosquito Simulator: Bite & Run
+# PLACEHOLDER: no ad network lines yet. When ads are live, paste the exact line(s) your ad network gives you,
+# e.g. for Google AdMob: AdMob > Apps > View all apps > app-ads.txt > "How to set up app-ads.txt".
+# Format: <ad system domain>, <your publisher id>, DIRECT, <certification authority id>
+# Never invent a publisher id. The file is only read at https://<developer-website-domain>/app-ads.txt, and
+# the domain must match the Marketing/Developer URL in App Store Connect, so it needs a custom domain (see README).

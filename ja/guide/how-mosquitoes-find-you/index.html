@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="ja" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>蚊はどうやって人を見つける？ CO₂・熱・匂い｜Mosquito Simulator</title>
+<meta name="description" content="蚊は複数の手がかりを重ねて人を探します。まず吐く息のCO₂、次に暗い形、体温、肌の匂い。4つの研究でわかったことと、それをゲームでどう表現したかを解説します。">
+<link rel="canonical" href="https://amert9696.github.io/mosquito-site/ja/guide/how-mosquitoes-find-you/">
+<link rel="alternate" hreflang="en" href="https://amert9696.github.io/mosquito-site/guide/how-mosquitoes-find-you/"><link rel="alternate" hreflang="tr" href="https://amert9696.github.io/mosquito-site/tr/guide/how-mosquitoes-find-you/"><link rel="alternate" hreflang="de" href="https://amert9696.github.io/mosquito-site/de/guide/how-mosquitoes-find-you/"><link rel="alternate" hreflang="es" href="https://amert9696.github.io/mosquito-site/es/guide/how-mosquitoes-find-you/"><link rel="alternate" hreflang="pt-BR" href="https://amert9696.github.io/mosquito-site/pt-br/guide/how-mosquitoes-find-you/"><link rel="alternate" hreflang="fr" href="https://amert9696.github.io/mosquito-site/fr/guide/how-mosquitoes-find-you/"><link rel="alternate" hreflang="ja" href="https://amert9696.github.io/mosquito-site/ja/guide/how-mosquitoes-find-you/"><link rel="alternate" hreflang="x-default" href="https://amert9696.github.io/mosquito-site/guide/how-mosquitoes-find-you/">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="apple-itunes-app" content="app-id=6827985347">
+<meta name="theme-color" content="#0b1226">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Mosquito Simulator: Bite &amp; Run">
+<meta property="og:title" content="蚊はどうやって人を見つける？ CO₂・熱・匂い｜Mosquito Simulator">
+<meta property="og:description" content="蚊は複数の手がかりを重ねて人を探します。まず吐く息のCO₂、次に暗い形、体温、肌の匂い。4つの研究でわかったことと、それをゲームでどう表現したかを解説します。">
+<meta property="og:url" content="https://amert9696.github.io/mosquito-site/ja/guide/how-mosquitoes-find-you/">
+<meta property="og:locale" content="ja_JP"><meta property="og:locale:alternate" content="en_US"><meta property="og:locale:alternate" content="tr_TR"><meta property="og:locale:alternate" content="de_DE"><meta property="og:locale:alternate" content="es_ES"><meta property="og:locale:alternate" content="pt_BR"><meta property="og:locale:alternate" content="fr_FR">
+<meta property="og:image" content="https://amert9696.github.io/mosquito-site/assets/img/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Mosquito Simulator: Bite &amp; Run with in-game screenshots">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/mosquito-site/assets/img/favicon.ico" sizes="48x48">
+<link rel="icon" href="/mosquito-site/assets/img/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="/mosquito-site/assets/img/apple-touch-icon.png">
+<link rel="manifest" href="/mosquito-site/site.webmanifest">
+<link rel="preload" href="/mosquito-site/assets/fonts/cinzel-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/mosquito-site/assets/fonts/barlow-regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/mosquito-site/assets/site.02b35b4d7d.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://amert9696.github.io/mosquito-site/#publisher","name":"Ali Mert Güleç","alternateName":"Ali Mert Gulec","jobTitle":"Independent game developer","url":"https://amert9696.github.io/mosquito-site/","sameAs":["https://apps.apple.com/developer/ali-mert-gulec/id1697123763"]},{"@type":"WebSite","@id":"https://amert9696.github.io/mosquito-site/#website","url":"https://amert9696.github.io/mosquito-site/","name":"Mosquito Simulator: Bite & Run","inLanguage":["en","tr","de","es","pt-BR","fr","ja"],"publisher":{"@id":"https://amert9696.github.io/mosquito-site/#publisher"}},{"@type":"BreadcrumbList","@id":"https://amert9696.github.io/mosquito-site/ja/guide/how-mosquitoes-find-you/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://amert9696.github.io/mosquito-site/ja/"},{"@type":"ListItem","position":2,"name":"ガイド","item":"https://amert9696.github.io/mosquito-site/ja/guide/"},{"@type":"ListItem","position":3,"name":"蚊が人を見つける仕組み","item":"https://amert9696.github.io/mosquito-site/ja/guide/how-mosquitoes-find-you/"}]},{"@type":"Article","@id":"https://amert9696.github.io/mosquito-site/ja/guide/how-mosquitoes-find-you/#article","headline":"蚊はどうやって人を見つける？ CO₂・熱・匂い","description":"蚊は複数の手がかりを重ねて人を探します。まず吐く息のCO₂、次に暗い形、体温、肌の匂い。4つの研究でわかったことと、それをゲームでどう表現したかを解説します。","inLanguage":"ja","mainEntityOfPage":{"@id":"https://amert9696.github.io/mosquito-site/ja/guide/how-mosquitoes-find-you/#webpage"},"datePublished":"2026-11-24","dateModified":"2026-11-24","author":{"@id":"https://amert9696.github.io/mosquito-site/#publisher"},"publisher":{"@id":"https://amert9696.github.io/mosquito-site/#publisher"},"about":{"@id":"https://amert9696.github.io/mosquito-site/#game"},"citation":[{"@type":"CreativeWork","name":"McMeniman CJ, Corfas RA, Matthews BJ, Ritchie SA, Vosshall LB. Multimodal integration of carbon dioxide and other sensory cues drives mosquito attraction to humans. Cell 156(5):1060–1071, 2014. PMC400","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC4007582/"},{"@type":"CreativeWork","name":"van Breugel F, Riffell J, Fairhall A, Dickinson MH. Mosquitoes use vision to associate odor plumes with thermal targets. Current Biology 25:2123–2129, 2015. PMC4546539","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC4546539/"},{"@type":"CreativeWork","name":"Chandel A, DeBeaubien NA, et al. Thermal infrared directs host-seeking behaviour in Aedes aegypti mosquitoes. Nature 633:615–623, 2024. doi:10.1038/s41586-024-07848-5","url":"https://doi.org/10.1038/s41586-024-07848-5"},{"@type":"CreativeWork","name":"De Obaldia ME, et al. Differential mosquito attraction to humans is associated with skin-derived carboxylic acid levels. Cell 185(22), 2022. PMC10069481","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC10069481/"},{"@type":"CreativeWork","name":"CDC. Preventing Mosquito Bites. cdc.gov","url":"https://www.cdc.gov/mosquitoes/prevention/index.html"}],"image":{"@type":"ImageObject","contentUrl":"https://amert9696.github.io/mosquito-site/assets/img/hero-orbit-1280.webp","url":"https://amert9696.github.io/mosquito-site/assets/img/hero-orbit-1280.webp","width":1280,"height":590,"caption":"Mosquito Simulator: Bite & Run","creditText":"Ali Mert Güleç","copyrightNotice":"© 2026 Ali Mert Güleç","creator":{"@id":"https://amert9696.github.io/mosquito-site/#publisher"}}},{"@type":"WebPage","@id":"https://amert9696.github.io/mosquito-site/ja/guide/how-mosquitoes-find-you/#webpage","url":"https://amert9696.github.io/mosquito-site/ja/guide/how-mosquitoes-find-you/","name":"蚊はどうやって人を見つける？ CO₂・熱・匂い｜Mosquito Simulator","description":"蚊は複数の手がかりを重ねて人を探します。まず吐く息のCO₂、次に暗い形、体温、肌の匂い。4つの研究でわかったことと、それをゲームでどう表現したかを解説します。","inLanguage":"ja","isPartOf":{"@id":"https://amert9696.github.io/mosquito-site/#website"},"about":{"@id":"https://amert9696.github.io/mosquito-site/#game"},"datePublished":"2026-11-24","dateModified":"2026-11-24","breadcrumb":{"@id":"https://amert9696.github.io/mosquito-site/ja/guide/how-mosquitoes-find-you/#breadcrumb"}}]}</script>
+<!-- ANALYTICS SLOT: empty by default (no cookies, no tracking). Paste a privacy-friendly snippet into
+     site.config.json "analytics_head_html" (e.g. Cloudflare Web Analytics or Plausible) and rebuild. -->
+</head>
+<body>
+<a class="skip" href="#main">本文へスキップ</a>
+<header class="site-header">
+<div class="wrap bar">
+<a class="brand" href="/mosquito-site/ja/"><img src="/mosquito-site/assets/img/favicon-32.png" srcset="/mosquito-site/assets/img/icon-192.png 2x" width="36" height="36" alt=""><span lang="en">Mosquito Simulator<small>Bite &amp; Run</small></span></a>
+<details class="lang"><summary aria-label="言語"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.6 3.8 5.6 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.6-3.8-9S9.5 5.6 12 3z"/></svg>JA</summary><ul><li><a href="/mosquito-site/guide/how-mosquitoes-find-you/" hreflang="en" lang="en">English</a></li><li><a href="/mosquito-site/tr/guide/how-mosquitoes-find-you/" hreflang="tr" lang="tr">Türkçe</a></li><li><a href="/mosquito-site/de/guide/how-mosquitoes-find-you/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/mosquito-site/es/guide/how-mosquitoes-find-you/" hreflang="es" lang="es">Español</a></li><li><a href="/mosquito-site/pt-br/guide/how-mosquitoes-find-you/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a></li><li><a href="/mosquito-site/fr/guide/how-mosquitoes-find-you/" hreflang="fr" lang="fr">Français</a></li><li><a href="/mosquito-site/ja/guide/how-mosquitoes-find-you/" hreflang="ja" lang="ja" aria-current="true">日本語</a></li></ul></details>
+<a class="btn-head" href="https://apps.apple.com/app/id6827985347" rel="noopener">無料で入手</a>
+</div>
+<nav class="nav wrap" aria-label="メニュー"><ul><li><a href="/mosquito-site/ja/how-to-play/">遊び方</a></li><li><a href="/mosquito-site/ja/features/">特徴</a></li><li><a href="/mosquito-site/ja/modes/">ゲームモード</a></li><li><a href="/mosquito-site/ja/species/">蚊の種類</a></li><li><a href="/mosquito-site/ja/guide/">ガイド</a></li><li><a href="/mosquito-site/ja/faq/">よくある質問</a></li><li><a href="/mosquito-site/ja/support/">サポート</a></li></ul></nav>
+</header>
+<main id="main" class="article"><div class="page-head"><div class="wrap"><h1>蚊はどうやって人を見つける？ CO₂・熱・匂い</h1><p class="lede"><strong>メスの蚊は、いくつもの手がかりを重ねて人を見つけます。まず私たちが吐き出す二酸化炭素を感知し、それをきっかけに暗い形へ向かって飛び、近づくと体温と肌の匂いをたどります。</strong>2014年に<em>Cell</em>誌に掲載された研究では、CO₂を感知することで熱や乳酸への誘引がオンになることが示され、2024年の<em>Nature</em>誌の研究では、ネッタイシマカ（Aedes aegypti）が約70 cm先の肌から出る赤外線も感知できることがわかりました。</p>
+<p class="lang-notice">ゲーム本体はまだ日本語に対応していません（英語・スペイン語・フランス語・ドイツ語・トルコ語・アラビア語）。</p>
+<p class="meta">執筆 Ali Mert Güleç · 公開日 <time datetime="2026-11-24">2026年11月24日</time> · 更新日 <time datetime="2026-11-24">2026年11月24日</time></p></div></div><div class="content"><div class="wrap"><section aria-labelledby="first">
+<h2 id="first">蚊が最初に気づくものは何？</h2>
+<p>二酸化炭素です。呼吸のたびにCO₂の流れが空気中に漂い、宿主を探すメスの蚊はそれに反応します。2014年、ロックフェラー大学のレスリー・ヴォスホール研究室のコナー・マクメニマンらは、ネッタイシマカのCO₂受容体の一部であるGr3をノックアウトしました。すると蚊は、CO₂があるときに通常の蚊が示すような熱や乳酸への反応を示さなくなりました。つまり<strong>CO₂はほかの手がかりをオンにするスイッチ（ゲート）として働く</strong>のです。ところが、この変異体も半野外試験では生身の人間を見つけることができました。熱と匂いが組み合わされば十分だったからです。著者らは、欠かせない手がかりはひとつもなく、手がかり同士が互いを補い合っていると結論づけました（<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4007582/">McMeniman et al., Cell, 2014</a>）。</p>
+</section>
+
+<section aria-labelledby="see">
+<h2 id="see">蚊には人の姿が見えるの？</h2>
+<p>はい、匂いを嗅いだあとなら見えます。カリフォルニア工科大学とワシントン大学のフローリス・ファン・ブリューゲルらは風洞実験で、メスの蚊がCO₂の流れの中を飛ぶまでは暗くコントラストの高い物体を無視し、飛んだあとはそれを調べに行くことを発見しました。物体を見たときにはCO₂が消えていても、ほんの一瞬嗅ぐだけで十分でした。温かさについては違い、CO₂の有無にかかわらず温かい物体を好みました。この研究は、嗅覚、視覚、熱の感知を<strong>順番に働く独立したモジュール</strong>として説明しています（<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4546539/">van Breugel et al., Current Biology, 2015</a>）。</p>
+</section>
+
+<section aria-labelledby="heat">
+<h2 id="heat">体温を感じ取るには、どこまで近づく必要があるの？</h2>
+<p>CO₂よりは近く、触れるほどではない距離です。2024年、カリフォルニア大学サンタバーバラ校のクレイグ・モンテル研究室のアビナッシュ・チャンデル、ニコラス・デボービアンらは、ネッタイシマカが触角の先端にある神経細胞の温度感受性チャネルTRPA1で熱赤外線を感知していることを示しました。肌と同じ温度（34 °C）の熱源からの赤外線は、<strong>CO₂とヒトの匂いと組み合わせると宿主探索行動をおよそ2倍にしました</strong>が、赤外線だけでは効果がありませんでした。この効果は約70 cmまで及びました（<a href="https://doi.org/10.1038/s41586-024-07848-5">Chandel et al., Nature, 2024</a>、<a href="https://neuroscience.ucsb.edu/news/all/2024/mosquitoes-sense-infrared-body-heat-help-track-humans-down">UC Santa Barbara</a>）。</p>
+</section>
+
+<section aria-labelledby="magnet">
+<h2 id="magnet">蚊に刺されやすい人と刺されにくい人がいるのはなぜ？</h2>
+<p>肌の化学的な性質が大きく関わっています。マリア・エレナ・デ・オバルディアらは、数年にわたってボランティアの肌の匂いをネッタイシマカに対して試験しました。最も蚊を引き寄せた人たちは肌のカルボン酸の量がずっと多く、繰り返しの試験でも引き寄せやすいままでした。この研究が示しているのは関連性であり、カルボン酸が好みの原因だと証明したものではありません（<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10069481/">De Obaldia et al., Cell, 2022</a>）。</p>
+</section>
+
+<section aria-labelledby="summary">
+<h2 id="summary">手がかりのまとめ</h2>
+<div class="table-wrap"><table>
+<thead><tr><th scope="col">手がかり</th><th scope="col">効いてくる場面</th><th scope="col">主な発見</th><th scope="col">ゲームでは</th></tr></thead>
+<tbody>
+<tr><td>吐く息のCO₂</td><td>最初に、最も遠い距離から</td><td>熱と乳酸への誘引をオンにする（2014年）</td><td>目に見える息の流れ。その流れに乗ると匂いをロック</td></tr>
+<tr><td>暗い形</td><td>CO₂を嗅いだあと</td><td>匂いが視覚的な誘引をオンにする（2015年）</td><td>暗闇の中で眠る人のシルエットとむき出しの肌が目立つ</td></tr>
+<tr><td>体温（赤外線）</td><td>中距離、約70 cmまで</td><td>ほかの手がかりと組み合わさると宿主探索が2倍に（2024年）</td><td>一部の種類は熱を感じる範囲が広い</td></tr>
+<tr><td>肌の匂い</td><td>近距離、誰を刺すかを選ぶとき</td><td>カルボン酸が引き寄せやすさと関連（2022年）</td><td>匂いロックが肌まで導き、報酬も増える</td></tr>
+</tbody>
+</table></div>
+</section>
+
+<section aria-labelledby="game">
+<h2 id="game"><span lang="en">Mosquito Simulator</span>ではどう表現しているの？</h2>
+<p>科学を親指1本で体感できるルールに置き換え、意図的に単純化しています。</p>
+<ul class="ticks">
+<li><strong>息の流れ：</strong>眠っている人はみな、目に見える温かい息を吐きます。その中を飛ぶと匂いをロックでき、画面上の軌跡が肌まで導いてくれ、次の刺しで得られる血が最大50%増えます。CO₂によるゲートと匂いを、ひとつの仕組みに凝縮したものです。</li>
+<li><strong>熱の感知：</strong>CulisetaとDeinoceritesはより遠くから熱を感じ取り、Toxorhynchites（オオカ属）はさらに遠くまで感じ取ります。<a href="/mosquito-site/ja/species/">蚊の種類のページ</a>をご覧ください。</li>
+<li><strong>長い触角で速くロック：</strong>Deinoceritesのオスはとても長い触角を持つので、ゲームではDeinoceritesは息の流れを2倍の速さでロックします。これは遊び心による誇張で、実際にはオスが長い触角を使うのはさなぎを見つけるためです。</li>
+<li><strong>人間側：</strong>人間は目と耳で蚊を見つけるので、明かり、物音、開いた目で部屋の警戒度が上がり、暗い壁に着地すれば隠れられます。</li>
+</ul>
+<p>創作した部分：血の「味」（コーヒー、砂糖、ワイン）はゲームのアイデアで、科学的な根拠はありません。</p>
+</section>
+
+<section aria-labelledby="avoid">
+<h2 id="avoid">蚊に刺されないためには、どう役立つ？</h2>
+<p>手がかり同士が補い合っているため、2014年の研究が指摘したように、ひとつだけを防いでもうまくいくことはまれです。米国疾病予防管理センター（CDC）は、DEET、ピカリジン（イカリジン）、IR3535、レモンユーカリ油、パラメンタンジオール、2-ウンデカノンを含む、米国環境保護庁（EPA）登録の虫よけ剤を、ラベルの指示どおりに使うことを推奨しています（<a href="https://www.cdc.gov/mosquitoes/prevention/index.html">CDC</a>）。刺されたあとに何が起きるかは、<a href="/mosquito-site/ja/guide/why-mosquito-bites-itch/">蚊に刺されるとなぜかゆいのか</a>をお読みください。</p>
+</section>
+
+<section aria-labelledby="refs" class="sources">
+<h2 id="refs">出典</h2>
+<ol>
+<li>McMeniman CJ, Corfas RA, Matthews BJ, Ritchie SA, Vosshall LB. Multimodal integration of carbon dioxide and other sensory cues drives mosquito attraction to humans. <em>Cell</em> 156(5):1060–1071, 2014. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4007582/">PMC4007582</a></li>
+<li>van Breugel F, Riffell J, Fairhall A, Dickinson MH. Mosquitoes use vision to associate odor plumes with thermal targets. <em>Current Biology</em> 25:2123–2129, 2015. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4546539/">PMC4546539</a></li>
+<li>Chandel A, DeBeaubien NA, et al. Thermal infrared directs host-seeking behaviour in Aedes aegypti mosquitoes. <em>Nature</em> 633:615–623, 2024. <a href="https://doi.org/10.1038/s41586-024-07848-5">doi:10.1038/s41586-024-07848-5</a></li>
+<li>De Obaldia ME, et al. Differential mosquito attraction to humans is associated with skin-derived carboxylic acid levels. <em>Cell</em> 185(22), 2022. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10069481/">PMC10069481</a></li>
+<li>CDC. Preventing Mosquito Bites. <a href="https://www.cdc.gov/mosquitoes/prevention/index.html">cdc.gov</a></li>
+</ol>
+</section><aside class="author" aria-label="執筆"><img src="/mosquito-site/assets/img/app-icon-256.webp" width="56" height="56" alt="" loading="lazy"><div><p><strong>Ali Mert Güleç</strong></p><p>Mosquito Simulator: Bite &amp; Runの個人開発者</p><p>蚊の種類のデータやここで紹介している仕組みを含め、ゲームの設計と開発をしています。このページの事実は、記載の日付にリンク先の情報源と照合しました。</p></div></aside><nav class="related" aria-label="あわせて読みたい"><h2>あわせて読みたい</h2><ul><li><a href="/mosquito-site/ja/guide/why-mosquito-bites-itch/">蚊に刺されるとかゆい理由</a></li><li><a href="/mosquito-site/ja/guide/games-where-you-play-as-an-insect/">虫になって遊べるゲーム</a></li><li><a href="/mosquito-site/ja/species/">蚊の種類</a></li></ul></nav><div class="cta"><a class="btn-store" href="https://apps.apple.com/app/id6827985347" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.9"><rect x="6" y="2.5" width="12" height="19" rx="3"/><path d="M10.5 18.5h3"/></svg><span>App Storeで無料ダウンロード</span></a><p class="cta-note">無料 · iPhone · iOS 15以降 · Android版は未発表</p></div><nav class="crumbs" aria-label="パンくずリスト"><ol><li><a href="/mosquito-site/ja/">ホーム</a></li><li><a href="/mosquito-site/ja/guide/">ガイド</a></li><li aria-current="page">蚊が人を見つける仕組み</li></ol></nav></div></div></main>
+<footer class="site-footer">
+<div class="wrap">
+<div class="foot-grid"><div><h2>ゲーム</h2><ul><li><a href="/mosquito-site/ja/">ホーム</a></li><li><a href="/mosquito-site/ja/how-to-play/">遊び方</a></li><li><a href="/mosquito-site/ja/features/">特徴</a></li><li><a href="/mosquito-site/ja/modes/">ゲームモード</a></li><li><a href="/mosquito-site/ja/species/">蚊の種類</a></li></ul></div><div><h2>ヘルプ</h2><ul><li><a href="/mosquito-site/ja/faq/">よくある質問</a></li><li><a href="/mosquito-site/ja/support/">サポート</a></li><li><a href="/mosquito-site/privacy.html">プライバシーポリシー</a></li><li><a href="/mosquito-site/terms.html">利用規約</a></li></ul></div><div><h2>その他</h2><ul><li><a href="/mosquito-site/ja/guide/">ガイド</a></li><li><a href="/mosquito-site/ja/guide/how-mosquitoes-find-you/">蚊が人を見つける仕組み</a></li><li><a href="/mosquito-site/ja/guide/why-mosquito-bites-itch/">蚊に刺されるとかゆい理由</a></li><li><a href="/mosquito-site/ja/guide/games-where-you-play-as-an-insect/">虫になって遊べるゲーム</a></li><li><a href="/mosquito-site/ja/press/">プレスキット</a></li></ul></div><div><h2>言語</h2><ul><li><a href="/mosquito-site/" hreflang="en" lang="en">English</a></li><li><a href="/mosquito-site/tr/" hreflang="tr" lang="tr">Türkçe</a></li><li><a href="/mosquito-site/de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="/mosquito-site/es/" hreflang="es" lang="es">Español</a></li><li><a href="/mosquito-site/pt-br/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a></li><li><a href="/mosquito-site/fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="/mosquito-site/ja/" hreflang="ja" lang="ja">日本語</a></li></ul></div></div>
+<div class="foot-note"><p>蚊になろう。刺して、かわして、夜明け前に逃げ切れ。 <a href="https://apps.apple.com/app/id6827985347" rel="noopener">App Storeで無料ダウンロード</a></p>
+<p>プライバシーポリシーと利用規約は英語で、トルコ語の要約があります。</p><p>App StoreはApple Inc.のサービスマークです。このサイトはCookieもアクセス解析も使用していません。</p><p>© 2026 Ali Mert Güleç</p></div>
+</div>
+</footer>
+</body>
+</html>
